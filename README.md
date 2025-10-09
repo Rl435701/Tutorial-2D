@@ -5,6 +5,10 @@
 Tutorial para creación de juego en 2D con Unity
 
 ## Indice
+[Requisitos](#Requisitos)
+
+## Estructura 
+|-----------------------------------------|
 
 
 ## Requisitos
