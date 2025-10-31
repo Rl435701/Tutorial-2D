@@ -31,7 +31,7 @@ Tutorial para creación de juego en 2D con Unity
 - Tutorial Parte 3: https://drive.google.com/drive/folders/1ZMjcxi-BD2_O6ynfwi2NdTRL8XJ77FtG?usp=sharing
 - Tutorial Parte 4: https://drive.google.com/drive/folders/1cEgr5mrU1fcWRh4jg2MLiRfh47qX_PJr?usp=sharing
 - Tutorial Parte 5: https://drive.google.com/drive/folders/1iFgZGTvv7KJlBNlxaR9xX1hHuD1pqu6N?usp=sharing
-- Tutorial Parte 6: Pendiente
+- Tutorial Parte 6: https://drive.google.com/drive/folders/1dCZlG4fb5rdKadR_gu6F9nvDkPHN27MU?usp=sharing
 - Tutorial Parte 7: Pendiente
 
 ## Desafios
