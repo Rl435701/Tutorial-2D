@@ -10,7 +10,7 @@ Tutorial para creación de juego en 2D con Unity
 - [Descripción](#Descripción)
 - [Tutoriales](#Tutoriales)
 - [Desafios](#Desafios)
-- [Despliegue Web y Windows](#Despliegue)
+- [Despliegue Web y Windows](#DespliegueWebyWindows)
 
 ## Estructura 
 
