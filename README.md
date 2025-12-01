@@ -10,6 +10,7 @@ Tutorial para creación de juego en 2D con Unity
 - [Descripción](#Descripción)
 - [Tutoriales](#Tutoriales)
 - [Desafios](#Desafios)
+- [Despliegue Web y Windows](#Despliegue)
 
 ## Estructura 
 
@@ -32,10 +33,12 @@ Tutorial para creación de juego en 2D con Unity
 - Tutorial Parte 4: https://drive.google.com/drive/folders/1cEgr5mrU1fcWRh4jg2MLiRfh47qX_PJr?usp=sharing
 - Tutorial Parte 5: https://drive.google.com/drive/folders/1iFgZGTvv7KJlBNlxaR9xX1hHuD1pqu6N?usp=sharing
 - Tutorial Parte 6: https://drive.google.com/drive/folders/1dCZlG4fb5rdKadR_gu6F9nvDkPHN27MU?usp=sharing
-- Tutorial Parte 7: Pendiente
 
 ## Desafios
 - Desafio 1: 
 - Desafio 2: https://drive.google.com/drive/folders/1BO0PJ33Je8DjzWncjXY6wYPagVWAJ7Yw?usp=sharing
 - Desafio 3: Revisado en clase
 - Desafio 4: Pendiente
+
+## Despliegue Web y Windows
+- Itch-io: https://rl435701.itch.io/hroes-de-barrio
