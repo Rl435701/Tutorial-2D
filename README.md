@@ -6,11 +6,10 @@ Tutorial para creación de juego en 2D con Unity
 
 ## Indice
 - [Requisitos](#Requisitos)
-- [Requisitos](#Requisitos)
 - [Descripción](#Descripción)
 - [Tutoriales](#Tutoriales)
 - [Desafios](#Desafios)
-- [Despliegue Web y Windows](#DespliegueWebyWindows)
+- [Despliegue](#Despliegue)
 
 ## Estructura 
 
@@ -40,5 +39,5 @@ Tutorial para creación de juego en 2D con Unity
 - Desafio 3: Revisado en clase
 - Desafio 4: Pendiente
 
-## Despliegue Web y Windows
+## Despliegue
 - Itch-io: https://rl435701.itch.io/hroes-de-barrio
