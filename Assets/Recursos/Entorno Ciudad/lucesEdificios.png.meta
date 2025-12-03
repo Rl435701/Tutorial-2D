@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: edb6a96ce1c98324680927637cc3d444
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3690739726989056094
+    second: lucesEdificios_0
+  - first:
+      213: -5122765662131807304
+    second: lucesEdificios_1
+  - first:
+      213: 5691962247647602833
+    second: lucesEdificios_2
+  - first:
+      213: 5246879418829945194
+    second: lucesEdificios_3
+  - first:
+      213: 2864196844270448126
+    second: lucesEdificios_4
+  - first:
+      213: -7850388696978885340
+    second: lucesEdificios_5
+  - first:
+      213: -9011446159461354124
+    second: lucesEdificios_6
+  - first:
+      213: 6695612563651627963
+    second: lucesEdificios_7
+  - first:
+      213: 7116591703345182035
+    second: lucesEdificios_8
+  - first:
+      213: -6549849704364377411
+    second: lucesEdificios_9
+  - first:
+      213: 4615560584452281915
+    second: lucesEdificios_10
+  - first:
+      213: 1352515974277329309
+    second: lucesEdificios_11
+  - first:
+      213: -6188452075368082463
+    second: lucesEdificios_12
+  - first:
+      213: 7177359241820210086
+    second: lucesEdificios_13
+  - first:
+      213: -7083735005269896345
+    second: lucesEdificios_14
+  - first:
+      213: -8533319592722297877
+    second: lucesEdificios_15
+  - first:
+      213: -276594536010960600
+    second: lucesEdificios_16
+  - first:
+      213: -5160991227318490899
+    second: lucesEdificios_17
+  - first:
+      213: -7069601772121724619
+    second: lucesEdificios_18
+  - first:
+      213: 2204674588808017802
+    second: lucesEdificios_19
+  - first:
+      213: -1556063622025554827
+    second: lucesEdificios_20
+  - first:
+      213: 2777347076758083700
+    second: lucesEdificios_21
+  - first:
+      213: 1675411132773828442
+    second: lucesEdificios_22
+  - first:
+      213: -659523272448325244
+    second: lucesEdificios_23
+  - first:
+      213: 8891270685647466194
+    second: lucesEdificios_24
+  - first:
+      213: -1821573826008509930
+    second: lucesEdificios_25
+  - first:
+      213: -3101666060229797133
+    second: lucesEdificios_26
+  - first:
+      213: 284322898697271509
+    second: lucesEdificios_27
+  - first:
+      213: 8837427623492600771
+    second: lucesEdificios_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lucesEdificios_0
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 204
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7256ec5cbd7ccc0800000000000000
+      internalID: -3690739726989056094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucesEdificios_1
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 185
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb901995c748e8b0800000000000000
+      internalID: -5122765662131807304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucesEdificios_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 178
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19828f5c189edfe40800000000000000
+      internalID: 5691962247647602833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucesEdificios_3
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 172
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69baa24809a0d840800000000000000
+      internalID: 5246879418829945194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucesEdificios_4
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 175
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efde88dcadbafb720800000000000000
+      internalID: 2864196844270448126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucesEdificios_5
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 165
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425f4dfb211dd0390800000000000000
+      internalID: -7850388696978885340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucesEdificios_6
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 173
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4757fb07679e0f280800000000000000
+      internalID: -9011446159461354124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucesEdificios_7
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 165
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb091ad6289bec50800000000000000
+      internalID: 6695612563651627963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucesEdificios_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 137
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355b169e27633c260800000000000000
+      internalID: 7116591703345182035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucesEdificios_9
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 143
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbaf92f75624a15a0800000000000000
+      internalID: -6549849704364377411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucesEdificios_10
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 140
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b369293b5e3cd0040800000000000000
+      internalID: 4615560584452281915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucesEdificios_11
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 156
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9177d7dc1a15c210800000000000000
+      internalID: 1352515974277329309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucesEdificios_12
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 134
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3182210a33e1aa0800000000000000
+      internalID: -6188452075368082463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucesEdificios_13
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 122
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a38f02043a1b9360800000000000000
+      internalID: 7177359241820210086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucesEdificios_14
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 126
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76353ef3b8481bd90800000000000000
+      internalID: -7083735005269896345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucesEdificios_15
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 127
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb08e8ba0f839980800000000000000
+      internalID: -8533319592722297877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucesEdificios_16
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 113
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821b0462cb6592cf0800000000000000
+      internalID: -276594536010960600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucesEdificios_17
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 111
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de826c6a2d97068b0800000000000000
+      internalID: -5160991227318490899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucesEdificios_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539663505aab3ed90800000000000000
+      internalID: -7069601772121724619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucesEdificios_19
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 73
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a877b3f8bd3989e10800000000000000
+      internalID: 2204674588808017802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucesEdificios_20
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 63
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57452415160c76ae0800000000000000
+      internalID: -1556063622025554827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucesEdificios_21
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 28
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4789228837e1b8620800000000000000
+      internalID: 2777347076758083700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucesEdificios_22
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 47
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5708bd6c81404710800000000000000
+      internalID: 1675411132773828442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucesEdificios_23
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 47
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4894d98f317e8d6f0800000000000000
+      internalID: -659523272448325244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucesEdificios_24
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 12
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de6cd3a493246b70800000000000000
+      internalID: 8891270685647466194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucesEdificios_25
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 0
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6121d90a14878b6e0800000000000000
+      internalID: -1821573826008509930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucesEdificios_26
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 12
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa1e1cc62ba4f4d0800000000000000
+      internalID: -3101666060229797133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucesEdificios_27
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 5
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d83c528b2e12f300800000000000000
+      internalID: 284322898697271509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucesEdificios_28
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 7
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c34082d999d4aa70800000000000000
+      internalID: 8837427623492600771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lucesEdificios_0: -3690739726989056094
+      lucesEdificios_1: -5122765662131807304
+      lucesEdificios_10: 4615560584452281915
+      lucesEdificios_11: 1352515974277329309
+      lucesEdificios_12: -6188452075368082463
+      lucesEdificios_13: 7177359241820210086
+      lucesEdificios_14: -7083735005269896345
+      lucesEdificios_15: -8533319592722297877
+      lucesEdificios_16: -276594536010960600
+      lucesEdificios_17: -5160991227318490899
+      lucesEdificios_18: -7069601772121724619
+      lucesEdificios_19: 2204674588808017802
+      lucesEdificios_2: 5691962247647602833
+      lucesEdificios_20: -1556063622025554827
+      lucesEdificios_21: 2777347076758083700
+      lucesEdificios_22: 1675411132773828442
+      lucesEdificios_23: -659523272448325244
+      lucesEdificios_24: 8891270685647466194
+      lucesEdificios_25: -1821573826008509930
+      lucesEdificios_26: -3101666060229797133
+      lucesEdificios_27: 284322898697271509
+      lucesEdificios_28: 8837427623492600771
+      lucesEdificios_3: 5246879418829945194
+      lucesEdificios_4: 2864196844270448126
+      lucesEdificios_5: -7850388696978885340
+      lucesEdificios_6: -9011446159461354124
+      lucesEdificios_7: 6695612563651627963
+      lucesEdificios_8: 7116591703345182035
+      lucesEdificios_9: -6549849704364377411
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
