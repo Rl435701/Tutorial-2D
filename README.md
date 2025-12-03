@@ -41,6 +41,7 @@ En este repositorio se encuentra el proyecto de la materia de Creación de Video
 
 ## Despliegue
 - Itch.io: https://rl435701.itch.io/hroes-de-barrio
+- APK: https://drive.google.com/file/d/1h9xr9ASD1x3CKVoMnokABvb0pAVyIslL/view?usp=sharing
 
 ## Videos
 - Nivel 1: 
